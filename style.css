@@ -101,6 +101,10 @@ a:hover {
   top: 40px;
 }
 
+.p {
+ text-style:bold;
+}
+
 .Lofi {
   width: 40%;
   float: left;
