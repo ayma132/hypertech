@@ -1,13 +1,13 @@
 
 body {
-  background-color: #FFEEAD;
+  background-color: #FA58B6;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
 
 hr {
-  border: dotted #96CEB4 6px;
+  border: dotted #1A1A40 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -30,21 +30,25 @@ h1 {
   font-size: 2rem;
 }
 
+.SAW {
+  background-color: #1A1A40;
+}
+
  h2 {
-   color: #96CEB4;
+   color: #270082;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
 }
 
  h3 {
-   color: #96CEB4;
+   color: #270082;
    font-family: 'Montserrat', sans-serif;
  }
 
  .lol {
    margin: 15px 0 0;
-   width: 53.6%;
+   width: 30.9%;
  }
 
 .div {
@@ -52,20 +56,20 @@ h1 {
 }
 
 .top-container {
-  background-color: #96CEB4;
+  background-color: #7A0BC0;
   position: relative;
   padding-top: 80px;
 }
 
 a {
-  color: #EEC373;
+  color: #270082;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
 a:hover {
-  color: #CA965C;
+  color: White;
 }
 
 .copyright {
@@ -101,14 +105,13 @@ a:hover {
   top: 40px;
 }
 
-.Intro {
- font-size: 20px;
-}
-
 .Lofi {
   width: 40%;
   float: left;
   margin-right: 30px;
+}
+.p {
+ color: White;
 }
 
 .mockup {
@@ -130,6 +133,8 @@ a:hover {
 }
 
 .Intro {
+  color: black;
+  line-height: 190%;
   width: 30%;
   margin: auto;
 
@@ -147,12 +152,12 @@ a:hover {
   font-family: Arial;
   color: #ffffff;
   font-size: 20px;
-  background: #96CEB4;
+  background: #270082;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
 .btn:hover {
-  background: #4d9191;
+  background: #7A0BC0;
   text-decoration: none;
 }
